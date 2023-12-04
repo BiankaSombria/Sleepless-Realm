@@ -12,6 +12,12 @@ This is not an exhaustive list of mods, just the core ones I thought I should sh
   - Ars Elemental
 - Blood Magic
 - Botania
+- 
+### Quality of Life
+
+- Building Gadgets
+- Cooking for Blockheads
+- Farmer's Delight
 
 ### Technology
 
@@ -20,4 +26,4 @@ This is not an exhaustive list of mods, just the core ones I thought I should sh
 - Mekanism
 - Powah!
 
-### 
+
