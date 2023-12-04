@@ -15,6 +15,7 @@ This is not an exhaustive list of mods, just the core ones I thought I should sh
 
 ### Technology
 
+- Embers Rekindled
 - Industrial Foregoing
 - Mekanism
 - Powah!
